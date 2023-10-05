@@ -19,7 +19,7 @@
     "mongoose": "^7.5.3",
     "nanoid": "^5.0.1",
     "pino": "^8.15.1",
-    "pino-pretty": "^10.2.0",
+    "pino-pretty": "^10.2.2",
     "zod": "^3.22.2"
   },
   "devDependencies": {
